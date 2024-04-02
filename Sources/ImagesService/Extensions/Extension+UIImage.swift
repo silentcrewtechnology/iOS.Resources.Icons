@@ -9,6 +9,10 @@ import UIKit
 
 public extension UIImage {
     
+    // MARK: - ic8
+    
+    static let ic8Close = ImagesService.image(named: "ic8Close")
+    
     // MARK: - ic10
     
     static let ic10Check = ImagesService.image(named: "ic10Check")
