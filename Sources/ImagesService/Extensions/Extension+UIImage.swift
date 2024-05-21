@@ -526,4 +526,12 @@ public extension UIImage {
     static let ic24InfoCircleColored = ImagesService.image(named: "ic24InfoCircleColored")
     static let ic24ReloadCircleColored = ImagesService.image(named: "ic24ReloadCircleColored")
     static let ic24WarningTriangleColored = ImagesService.image(named: "ic24WarningTriangleColored")
+    
+    // MARK: - ic24PaymentSystem
+    
+    static let ic24CardMaestroLight = ImagesService.image(named: "ic24CardMaestroLight")
+    static let ic24CardMastercardLight = ImagesService.image(named: "ic24CardMastercardLight")
+    static let ic24CardMirLight = ImagesService.image(named: "ic24CardMirLight")
+    static let ic24CardVisaLight = ImagesService.image(named: "ic24CardVisaLight")
+    static let ic24CardUnknownLight = ImagesService.image(named: "ic24CardUnknownLight")
 }
