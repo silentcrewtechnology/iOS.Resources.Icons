@@ -542,4 +542,10 @@ public extension UIImage {
     static let brand28SamsungPayMainInverse = ImagesService.image(named: "brand28SamsungPayMainInverse")
     static let brand28SBPMainInverse = ImagesService.image(named: "brand28SBPMainInverse")
     static let brand28YandexPayMainInverse = ImagesService.image(named: "brand28YandexPayMainInverse")
+    
+    // MARK: - brand40
+    
+    static let brand40Mastercard = ImagesService.image(named: "brand40Mastercard")
+    static let brand40MirWhite = ImagesService.image(named: "brand40MirWhite")
+    static let brand40VisaWhite = ImagesService.image(named: "brand40VisaWhite")
 }
