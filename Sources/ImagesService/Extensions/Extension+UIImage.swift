@@ -536,6 +536,12 @@ public extension UIImage {
     static let ic24CardVisaLight = ImagesService.image(named: "ic24CardVisaLight")
     static let ic24CardUnknownLight = ImagesService.image(named: "ic24CardUnknownLight")
     
+    // MARK: - ic40
+    
+    static let ic40DeletePin = ImagesService.image(named: "ic40DeletePin")
+    static let ic40FaceIdPin = ImagesService.image(named: "ic40FaceIdPin")
+    static let ic40TouchIdPin = ImagesService.image(named: "ic40TouchIdPin")
+    
     // MARK: - brand28
     
     static let brand28ApplePayMainInverse = ImagesService.image(named: "brand28ApplePayMainInverse")
