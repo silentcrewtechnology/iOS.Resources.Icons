@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "bars_empty_160dp.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
