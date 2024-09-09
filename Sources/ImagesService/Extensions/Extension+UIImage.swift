@@ -549,4 +549,16 @@ public extension UIImage {
     static let brand40Mastercard = ImagesService.image(named: "brand40Mastercard")
     static let brand40MirWhite = ImagesService.image(named: "brand40MirWhite")
     static let brand40VisaWhite = ImagesService.image(named: "brand40VisaWhite")
+    
+    // MARK: - deprecated
+    static let bankIcon = ImagesService.image(named: "bank_icon")
+    static let barsEmpty160dp = ImagesService.image(named: "bars_empty_160dp")
+    static let barsServerError = ImagesService.image(named: "bars_server_error")
+    static let barsEmpty = ImagesService.image(named: "barsEmpty")
+    static let barsWithPhone = ImagesService.image(named: "BarsWithPhone")
+    static let icCheckSquare16dp = ImagesService.image(named: "ic_check_square_16dp")
+    static let icUncheckSquare16dp = ImagesService.image(named: "ic_uncheck_square_16dp")
+    static let icCheckTransparent64x64 = ImagesService.image(named: "ic_check_transparent_64x64")
+    static let icClock64x64 = ImagesService.image(named: "ic_clock_64x64")
+    static let icErrorErrorpage = ImagesService.image(named: "ic_error_errorpage")
 }
