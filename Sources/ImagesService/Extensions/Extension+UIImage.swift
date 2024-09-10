@@ -565,4 +565,11 @@ public extension UIImage {
     static let icCheckTransparent64x64 = ImagesService.image(named: "ic_check_transparent_64x64")
     static let icClock64x64 = ImagesService.image(named: "ic_clock_64x64")
     static let icErrorErrorpage = ImagesService.image(named: "ic_error_errorpage")
+    
+    // TODO: - Удалить эти изображения. Больше не используется
+    @available(*, deprecated, message: "Больше не используется. Запланировано на удаление")
+    static let barsServerError = ImagesService.image(named: "bars_server_error")
+    
+    @available(*, deprecated, message: "Больше не используется. Запланировано на удаление")
+    static let barsEmpty = ImagesService.image(named: "barsEmpty")
 }
