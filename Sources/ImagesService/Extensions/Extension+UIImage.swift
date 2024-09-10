@@ -559,8 +559,6 @@ public extension UIImage {
     // MARK: - deprecated
     static let bankIcon = ImagesService.image(named: "bank_icon")
     static let barsEmpty160dp = ImagesService.image(named: "bars_empty_160dp")
-    static let barsServerError = ImagesService.image(named: "bars_server_error")
-    static let barsEmpty = ImagesService.image(named: "barsEmpty")
     static let barsWithPhone = ImagesService.image(named: "BarsWithPhone")
     static let icCheckSquare16dp = ImagesService.image(named: "ic_check_square_16dp")
     static let icUncheckSquare16dp = ImagesService.image(named: "ic_uncheck_square_16dp")
