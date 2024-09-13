@@ -556,6 +556,10 @@ public extension UIImage {
     static let brand40MirWhite = ImagesService.image(named: "brand40MirWhite")
     static let brand40VisaWhite = ImagesService.image(named: "brand40VisaWhite")
     
+    // MARK: - Other
+    
+    static let cardBackground = ImagesService.image(named: "cardBackground")
+    
     // MARK: - deprecated
     static let bankIcon = ImagesService.image(named: "bank_icon")
     static let barsEmpty160dp = ImagesService.image(named: "bars_empty_160dp")
