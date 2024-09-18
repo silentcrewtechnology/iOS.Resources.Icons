@@ -559,6 +559,7 @@ public extension UIImage {
     // MARK: - Other
     
     static let cardBackground = ImagesService.image(named: "cardBackground")
+    static let iconBackground = ImagesService.image(named: "iconBackground")
     
     // MARK: - deprecated
     static let bankIcon = ImagesService.image(named: "bank_icon")
