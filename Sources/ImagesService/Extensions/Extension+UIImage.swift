@@ -519,6 +519,9 @@ public extension UIImage {
     static let ic24ZoomIn = ImagesService.image(named: "ic24ZoomIn")
     static let ic24ZoomOut = ImagesService.image(named: "ic24ZoomOut")
     static let ic24SBP = ImagesService.image(named: "ic24SBP")
+    static let ic24PhotoLibrary = ImagesService.image(named: "ic24PhotoLibrary")
+    static let ic24FlashOn = ImagesService.image(named: "ic24FlashOn")
+    static let ic24FlashOff = ImagesService.image(named: "ic24FlashOff")
     
     // MARK: - ic24Colored
     
@@ -560,6 +563,8 @@ public extension UIImage {
     
     static let cardBackground = ImagesService.image(named: "cardBackground")
     static let iconBackground = ImagesService.image(named: "iconBackground")
+    static let scanFrame = ImagesService.image(named: "scanFrame")
+    static let scanRectangle = ImagesService.image(named: "scanRectangle")
     
     // MARK: - deprecated
     static let bankIcon = ImagesService.image(named: "bank_icon")
