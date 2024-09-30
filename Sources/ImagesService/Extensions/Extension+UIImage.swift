@@ -576,6 +576,16 @@ public extension UIImage {
     static let icClock64x64 = ImagesService.image(named: "ic_clock_64x64")
     static let icErrorErrorpage = ImagesService.image(named: "ic_error_errorpage")
     
+    static let icCardEmpty32dp = ImagesService.image(named: "ic_card_empty_32dp")
+    static let icNextGreen24dp = ImagesService.image(named: "ic_next_green_24dp")
+    static let icPhotoGray24dp = ImagesService.image(named: "ic_photo_gray_24dp")
+    
+    static let maestro = ImagesService.image(named: "maestro")
+    static let masterCard = ImagesService.image(named: "masterCard")
+    static let mir = ImagesService.image(named: "mir")
+    static let visa = ImagesService.image(named: "visa")
+    static let unknownCard = ImagesService.image(named: "unknownCard")
+    
     // TODO: - Удалить эти изображения. Больше не используется
     @available(*, deprecated, message: "Больше не используется. Запланировано на удаление")
     static let barsServerError = ImagesService.image(named: "bars_server_error")
