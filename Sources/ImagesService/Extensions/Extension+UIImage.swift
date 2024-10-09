@@ -578,7 +578,6 @@ public extension UIImage {
     
     static let icCardEmpty32dp = ImagesService.image(named: "ic_card_empty_32dp")
     static let icNextGreen24dp = ImagesService.image(named: "ic_next_green_24dp")
-    static let icPhotoGray24dp = ImagesService.image(named: "ic_photo_gray_24dp")
     
     static let maestro = ImagesService.image(named: "maestro")
     static let masterCard = ImagesService.image(named: "masterCard")
@@ -592,4 +591,7 @@ public extension UIImage {
     
     @available(*, deprecated, message: "Больше не используется. Запланировано на удаление")
     static let barsEmpty = ImagesService.image(named: "barsEmpty")
+    
+    @available(*, deprecated, message: "Больше не используется. Запланировано на удаление")
+    static let icPhotoGray24dp = ImagesService.image(named: "ic_photo_gray_24dp")
 }
