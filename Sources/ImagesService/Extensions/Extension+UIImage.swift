@@ -586,6 +586,7 @@ public extension UIImage {
     static let unknownCard = ImagesService.image(named: "unknownCard")
     
     static let icProfile = ImagesService.image(named: "ic_profile")
+    static let ic20GreenCheck = ImagesService.image(named: "ic_20_green_check")
     
     // TODO: - Удалить эти изображения. Больше не используется
     @available(*, deprecated, message: "Больше не используется. Запланировано на удаление")
