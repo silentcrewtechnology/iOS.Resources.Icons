@@ -585,6 +585,8 @@ public extension UIImage {
     static let visa = ImagesService.image(named: "visa")
     static let unknownCard = ImagesService.image(named: "unknownCard")
     
+    static let icProfile = ImagesService.image(named: "ic_profile")
+    
     // TODO: - Удалить эти изображения. Больше не используется
     @available(*, deprecated, message: "Больше не используется. Запланировано на удаление")
     static let barsServerError = ImagesService.image(named: "bars_server_error")
